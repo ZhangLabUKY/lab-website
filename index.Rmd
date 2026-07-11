@@ -1,11 +1,17 @@
 ---
-title: "Zhang Lab"
+title: "Zhang Lab | University of Kentucky"
+output:
+  html_document:
+    includes:
+      in_header:
+        - includes/site-head.html
+        - includes/head/home.html
 ---
 
 <section class="hero" aria-labelledby="home-title">
 <div class="site-shell hero-grid">
 <div class="hero-copy">
-<p class="eyebrow">University of Kentucky</p>
+<p class="eyebrow">Department of Biostatistics, University of Kentucky</p>
 <h1 id="home-title">Methods and software for biomedical discovery.</h1>
 <p class="hero-lede">Our lab brings together statistical expertise, bioinformatics, and accessible analytical tools for biomedical research.</p>
 <div class="button-row">

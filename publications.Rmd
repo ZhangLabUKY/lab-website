@@ -1,5 +1,11 @@
 ---
-title: "Publications"
+title: "Publications | Zhang Lab | University of Kentucky"
+output:
+  html_document:
+    includes:
+      in_header:
+        - includes/site-head.html
+        - includes/head/publications.html
 ---
 
 <section class="page-hero" aria-labelledby="publications-title">

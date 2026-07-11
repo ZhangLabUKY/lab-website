@@ -12,4 +12,4 @@ output:
     includes:
       before_body: includes/navigation.html
       after_body: includes/footer.html
-      in_header: includes/google-verify.html
+      in_header: includes/site-head.html

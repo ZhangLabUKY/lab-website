@@ -1,5 +1,11 @@
 ---
-title: "Software & Apps"
+title: "Software & Apps | Zhang Lab | University of Kentucky"
+output:
+  html_document:
+    includes:
+      in_header:
+        - includes/site-head.html
+        - includes/head/software.html
 ---
 
 <section class="page-hero" aria-labelledby="software-title">

@@ -1,5 +1,11 @@
 ---
-title: "Research"
+title: "Research | Zhang Lab | University of Kentucky"
+output:
+  html_document:
+    includes:
+      in_header:
+        - includes/site-head.html
+        - includes/head/research.html
 ---
 
 <section class="page-hero" aria-labelledby="research-title">
