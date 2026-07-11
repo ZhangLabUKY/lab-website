@@ -1,0 +1,70 @@
+---
+title: "People"
+---
+
+<section class="page-hero" aria-labelledby="people-title">
+<div class="site-shell narrow-copy">
+<p class="eyebrow">People</p>
+<h1 id="people-title">The people behind the lab's research and software.</h1>
+</div>
+</section>
+
+<section class="section" aria-labelledby="leadership-heading">
+<div class="site-shell">
+<div class="section-heading">
+<p class="eyebrow">Leadership</p>
+<h2 id="leadership-heading">Principal investigator</h2>
+</div>
+<article class="person-card person-card-featured person-card-linked">
+<a class="person-card-overlay" href="https://cph.uky.edu/directory/xiaohua-zhang" target="_blank" rel="noopener" aria-label="View Xiaohua Douglas Zhang's UKY profile"></a>
+<div class="person-monogram" aria-hidden="true">XDZ</div>
+<div class="person-content">
+<p class="person-role">Professor</p>
+<h3>Dr. Xiaohua Douglas Zhang</h3>
+<p>Author of CytoProfile, CytokineProfile Shiny, R imputeCGM, IAHRiskCalc, CGManalyzer2, and Python imputeCGM.</p>
+<p class="person-contact"><strong>Email:</strong> douglas.zhang@uky.edu<br><strong>ORCID:</strong> 0000-0002-2486-7931</p>
+</div>
+</article>
+</div>
+</section>
+
+<section class="section section-muted" aria-labelledby="members-heading">
+<div class="site-shell">
+<div class="section-heading">
+<p class="eyebrow">Members</p>
+<h2 id="members-heading">Lab contributors</h2>
+</div>
+<div class="people-grid">
+<article class="person-card person-card-linked">
+<a class="person-card-overlay" href="https://cph.uky.edu/directory/shubh-saraswat" target="_blank" rel="noopener" aria-label="View Shubh Saraswat's UKY profile"></a>
+<div class="person-monogram" aria-hidden="true">SS</div>
+<div class="person-content">
+<p class="person-role">Lab member</p>
+<h3>Shubh Saraswat</h3>
+<p class="person-title">Biomedical Data Scientist and PhD Student in Epidemiology and Biostatistics</p>
+<p>Maintainer of CytoProfile, CytokineProfile Shiny, R imputeCGM, IAHRiskCalc, and CGManalyzer2.</p>
+<p class="person-contact"><strong>Email:</strong> shubh.saraswat@uky.edu<br><strong>ORCID:</strong> 0009-0009-2359-1484</p>
+</div>
+</article>
+<article class="person-card">
+<div class="person-monogram" aria-hidden="true">QY</div>
+<div class="person-content">
+<p class="person-role">Lab member</p>
+<h3>Qi Yan</h3>
+<p class="person-title">PhD Candidate in Epidemiology and Biostatistics</p>
+<p class="person-contact"><strong>Email:</strong> Qi.Yan@uky.edu</p>
+</div>
+</article>
+<article class="person-card">
+<div class="person-monogram" aria-hidden="true">HSS</div>
+<div class="person-content">
+<p class="person-role">Lab member</p>
+<h3>Hasin Shahed Shad</h3>
+<p class="person-title">PhD Student in Biomedical Informatics</p>
+<p>Maintainer of Python imputeCGM.</p>
+<p class="person-contact"><strong>Email:</strong> hasin.shad@uky.edu</p>
+</div>
+</article>
+</div>
+</div>
+</section>

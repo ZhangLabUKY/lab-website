@@ -1,0 +1,14 @@
+name: "ZhangLabUKY"
+output_dir: "docs"
+exclude:
+  - "README.md"
+  - "docs"
+  - "includes"
+output:
+  html_document:
+    theme: null
+    toc: false
+    css: assets/css/zhang-lab.css
+    includes:
+      before_body: includes/navigation.html
+      after_body: includes/footer.html
