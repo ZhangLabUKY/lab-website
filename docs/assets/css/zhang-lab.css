@@ -82,7 +82,7 @@ h1.title {
 
 .site-wordmark {
   color: var(--ink);
-  font-size: 1.06rem;
+  font-size: 1.4rem;
   font-weight: 750;
   letter-spacing: -0.02em;
   text-decoration: none;
@@ -782,7 +782,7 @@ h3 {
   }
 
   .site-wordmark {
-    font-size: 0.98rem;
+    font-size: 1.15rem;
   }
 
   .site-nav-links {
