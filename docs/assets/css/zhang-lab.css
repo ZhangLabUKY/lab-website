@@ -493,26 +493,20 @@ h3 {
   padding: 36px;
 }
 
-.person-monogram {
-  align-items: center;
+.person-photo {
   aspect-ratio: 1;
-  background: var(--sky);
   border-radius: 50%;
-  color: var(--uky-blue-dark);
-  display: flex;
+  display: block;
   flex: 0 0 84px;
-  font-size: 1.15rem;
-  font-weight: 800;
   height: 84px;
-  justify-content: center;
-  letter-spacing: -0.04em;
+  object-fit: cover;
+  object-position: center;
   overflow: hidden;
   width: 84px;
 }
 
-.person-card-featured .person-monogram {
+.person-card-featured .person-photo {
   flex-basis: 108px;
-  font-size: 1.45rem;
   height: 108px;
   width: 108px;
 }
@@ -657,6 +651,29 @@ h3 {
   line-height: 1.75;
   margin-bottom: 0;
   max-width: 800px;
+}
+
+.publication-doi {
+  align-items: center;
+  border: 1px solid var(--uky-blue);
+  border-radius: 999px;
+  color: var(--uky-blue);
+  display: inline-flex;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  line-height: 1;
+  margin-top: 14px;
+  padding: 8px 11px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: background-color 160ms ease, border-color 160ms ease, color 160ms ease, transform 160ms ease;
+}
+
+.publication-doi:hover {
+  background: var(--uky-blue);
+  color: var(--white);
+  transform: translateY(-1px);
 }
 
 .publication-list .text-link {
@@ -866,7 +883,7 @@ h3 {
     flex-direction: column;
   }
 
-  .person-card-featured .person-monogram {
+  .person-card-featured .person-photo {
     height: 84px;
     width: 84px;
   }
