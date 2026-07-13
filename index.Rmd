@@ -67,13 +67,16 @@ output:
 <p class="tool-type">R package</p>
 <h3>CytoProfile</h3>
 <p>Comprehensive cytokine data quality control, exploratory analysis, and multivariate methods.</p>
-<a class="text-link" href="https://github.com/saraswatsh/CytoProfile" target="_blank" rel="noopener">View project <span aria-hidden="true">↗</span></a>
+<a class="text-link" href="https://github.com/saraswatsh/CytoProfile" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
+<a class="text-link" href="https://cran.r-project.org/package=CytoProfile" target="_blank" rel="noopener">CRAN <span aria-hidden="true">↗</span></a>
+<a class="text-link" href="https://cytoprofile.cytokineprofile.org/" target="_blank" rel="noopener">Documentation <span aria-hidden="true">↗</span></a>
 </article>
 <article class="tool-preview">
 <p class="tool-type">Shiny application</p>
 <h3>CytokineProfile Shiny</h3>
 <p>A guided interface for cytokine-data workflows, from upload and filtering through analysis and export.</p>
-<a class="text-link" href="https://shiny.cytokineprofile.org" target="_blank" rel="noopener">Open application <span aria-hidden="true">↗</span></a>
+<a class="text-link" href="https://github.com/ZhangLabUKY/CytokineProfileShinyApp" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
+<a class="text-link" href="https://shiny.cytokineprofile.org" target="_blank" rel="noopener">Open app <span aria-hidden="true">↗</span></a>
 </article>
 </div>
 </div>
