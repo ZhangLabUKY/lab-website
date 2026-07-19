@@ -27,7 +27,6 @@ output:
 <div class="person-content">
 <p class="person-role">Professor</p>
 <h3>Dr. Xiaohua Douglas Zhang</h3>
-<p>Author of CytoProfile, CytokineProfile Shiny, R imputeCGM, IAHRiskCalc, CGManalyzer2, and Python imputeCGM.</p>
 <p class="person-contact"><strong>Email:</strong> douglas.zhang@uky.edu<br><strong>ORCID:</strong> 0000-0002-2486-7931</p>
 </div>
 </article>
@@ -48,7 +47,6 @@ output:
 <p class="person-role">Lab member</p>
 <h3>Shubh Saraswat</h3>
 <p class="person-title">Biomedical Data Scientist and PhD Student in Epidemiology and Biostatistics</p>
-<p>Maintainer of CytoProfile, CytokineProfile Shiny, R imputeCGM, IAHRiskCalc, and CGManalyzer2.</p>
 <p class="person-contact"><strong>Email:</strong> shubh.saraswat@uky.edu<br><strong>ORCID:</strong> 0009-0009-2359-1484</p>
 </div>
 </article>
@@ -67,7 +65,6 @@ output:
 <p class="person-role">Lab member</p>
 <h3>Hasin Shahed Shad</h3>
 <p class="person-title">PhD Student in Biomedical Informatics</p>
-<p>Maintainer of Python imputeCGM.</p>
 <p class="person-contact"><strong>Email:</strong> hasin.shad@uky.edu</p>
 </div>
 </article>

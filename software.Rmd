@@ -30,6 +30,7 @@ output:
 </div>
 <h3>CytoProfile</h3>
 <p>Lab-linked R package for cytokine-data quality control, exploratory analysis, univariate testing, and multivariate workflows.</p>
+<p class="software-note">Maintained by Shubh Saraswat.</p>
 <div class="link-row">
 <a class="text-link" href="https://github.com/saraswatsh/CytoProfile" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
 <a class="text-link" href="https://cran.r-project.org/package=CytoProfile" target="_blank" rel="noopener">CRAN <span aria-hidden="true">↗</span></a>
@@ -43,6 +44,7 @@ output:
 </div>
 <h3>CytokineProfile Shiny</h3>
 <p>A guided cytokine-analysis application covering data upload, filtering, transformations, statistical analyses, interactive results, and exports.</p>
+<p class="software-note">Maintained by Shubh Saraswat.</p>
 <div class="link-row">
 <a class="text-link" href="https://github.com/ZhangLabUKY/CytokineProfileShinyApp" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
 <a class="text-link" href="https://shiny.cytokineprofile.org" target="_blank" rel="noopener">Open app <span aria-hidden="true">↗</span></a>
@@ -66,6 +68,7 @@ output:
 </div>
 <h3>imputeCGM</h3>
 <p>Imputes missing continuous-glucose-monitoring values, including both explicit missing values and readings absent from the expected timestamp grid.</p>
+<p class="software-note">Maintained by Shubh Saraswat.</p>
 <p class="software-note">Repository name: <code>imputeCGMr</code>.</p>
 <div class="link-row">
 <a class="text-link" href="https://github.com/ZhangLabUKY/imputeCGMr" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
@@ -80,6 +83,7 @@ output:
 </div>
 <h3>imputeCGM (Python)</h3>
 <p>A Python package for imputing missing continuous-glucose-monitoring values.</p>
+<p class="software-note">Maintained by Hasin Shahed Shad.</p>
 <div class="link-row">
 <a class="text-link" href="https://pypi.org/project/imputeCGM/" target="_blank" rel="noopener">PyPI <span aria-hidden="true">↗</span></a>
 </div>
@@ -91,6 +95,7 @@ output:
 </div>
 <h3>IAHRiskCalc</h3>
 <p>Classifies clamp-based impaired awareness of hypoglycemia from symptom and physiological-response values at 45 and 90 mg/dL.</p>
+<p class="software-note">Maintained by Shubh Saraswat.</p>
 <div class="link-row">
 <a class="text-link" href="https://github.com/ZhangLabUKY/IAHRiskCalc" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
 <a class="text-link" href="https://xdzhanglab-iahriskcalc.share.connect.posit.cloud/" target="_blank" rel="noopener">Open app <span aria-hidden="true">↗</span></a>
@@ -103,6 +108,7 @@ output:
 </div>
 <h3>CGManalyzer2</h3>
 <p>An interactive application for CGM data quality review, missingness, glucose metrics, visualizations, complexity analyses, and reproducible exports.</p>
+<p class="software-note">Maintained by Shubh Saraswat.</p>
 <p class="software-note">Repository name: <code>CGMAnalyzerShiny</code>.</p>
 <div class="link-row">
 <a class="text-link" href="https://github.com/ZhangLabUKY/CGMAnalyzerShiny" target="_blank" rel="noopener">GitHub <span aria-hidden="true">↗</span></a>
